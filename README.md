@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Selim
 #### Django Developer
-![Django Developer](https://images.velog.io/images/boram_in/post/307ae1f1-a7e2-4690-b308-d86905452459/django.gif)
+![MasterHead](https://images.velog.io/images/boram_in/post/307ae1f1-a7e2-4690-b308-d86905452459/django.gif)
+
 
 I'm Selim from Turkey. I really enjoy learning languages and frameworks like Django and Pandas. I also enjoy design in general.
 
@@ -16,4 +17,4 @@ I'm Selim from Turkey. I really enjoy learning languages and frameworks like Dja
 
 ## Examples of Work
 
-<a href="https://github.com/festiny7/dj4-crm" target="_blank"><img src="https://github.com/festiny7/dj4-crm/blob/main/screenshots/homepage.png"  width="330" /></a>  <a href="https://github.com/festiny7/streamlit-pandas-project" target="_blank"><img src="https://github.com/festiny7/streamlit-pandas-project/blob/main/screenshots/homepage.png" width=330 /></a> <a href="https://github.com/festiny7/django-cards-app" target="_blank"><img src="https://github.com/festiny7/django-cards-app/blob/main/gifs/new-card.gif"  width="330" /></a>
+<a href="https://github.com/festiny7/dj4-crm" target="_blank"><img src="https://github.com/festiny7/dj4-crm/blob/main/screenshots/homepage.png"  width="30" /></a>  <a href="https://github.com/festiny7/streamlit-pandas-project" target="_blank"><img src="https://github.com/festiny7/streamlit-pandas-project/blob/main/screenshots/homepage.png" width=30 /></a> <a href="https://github.com/festiny7/django-cards-app" target="_blank"><img src="https://github.com/festiny7/django-cards-app/blob/main/gifs/new-card.gif"  width="30" /></a>
