@@ -5,7 +5,7 @@
 
 I'm Selim from Turkey. I really enjoy learning languages and frameworks like Flask, Django and Pandas. I also enjoy design in general.
 
-- 🔭 I’m currently working on [Bekleme](https://bekleme.yeditepe.edu.tr/) and Aras Kargo
+- 🔭 I’m currently working on [Bekleme](https://bekleme.yeditepe.edu.tr/)
 - 🌱 I’m currently learning Django 
 - 💬 Ask me about Python
 - 📫 How to reach me: selim.tr@yahoo.com 
